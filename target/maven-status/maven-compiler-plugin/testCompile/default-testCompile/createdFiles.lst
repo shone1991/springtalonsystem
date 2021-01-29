@@ -1,0 +1,6 @@
+com\ivc\talonsystem\testdao\TestViolationDao.class
+com\ivc\talonsystem\testconfig\TestHibernateConfiguration.class
+com\ivc\talonsystem\testdao\TestAbstractCompanyDao.class
+com\ivc\talonsystem\testdao\TestRjuDao.class
+com\ivc\talonsystem\testdao\TestUserDao.class
+com\ivc\talonsystem\testdao\TestPostJob.class
